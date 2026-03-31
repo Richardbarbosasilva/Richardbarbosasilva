@@ -25,46 +25,6 @@
 
 ---
 
-## / about
-
-<table>
-  <tr>
-    <td width="56%" valign="top">
-
-```python
-class RichardBarbosaSilva:
-    role = "Jr Backend Developer"
-    location = "Manaus, AM - Brazil"
-    stack = ["Python", "Node.js", "TypeScript", "Fastify", "Prisma"]
-    focus = ["Backend", "Automation", "Linux", "Containers", "DevOps"]
-
-    def mindset(self):
-        return "Build useful things. Automate repetitive work. Keep systems reliable."
-```
-
-Sou um desenvolvedor back-end com forte afinidade por automacao, infraestrutura, Linux e servicos escalaveis.
-
-Gosto de trabalhar na intersecao entre desenvolvimento e operacao: criar APIs, estruturar servicos, automatizar rotinas, organizar ambientes e transformar problemas tecnicos em solucoes praticas.
-
-Principais interesses: arquitetura de servicos, ambientes self-hosted, containers, automacao de processos, observabilidade e confiabilidade.
-
-   </td>
-   <td width="44%" valign="top">
-
-| Signal | Status |
-| --- | --- |
-| Role | Jr Backend Developer |
-| Base | Manaus, AM - Brazil |
-| Main stack | Python, Node.js, TypeScript |
-| Infra profile | Linux, Docker, self-hosted |
-| Work style | clean, useful, reliable systems |
-
-   </td>
-  </tr>
-</table>
-
----
-
 ## / tech-radar
 
 <div align="center">
