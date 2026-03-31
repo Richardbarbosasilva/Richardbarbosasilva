@@ -1,27 +1,64 @@
 <div align="center">
 
-<img width="100%" src="./assets/terminal-hero.gif" alt="Terminal hero" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0D1117,40:13233B,100:1F6FEB&section=header&text=Richard%20Barbosa%20Silva&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Automation%20%7C%20Linux%20%7C%20DevOps&descAlignY=60" alt="header" />
 
-## Backend Developer turning operational problems into practical systems
+## Backend Developer building useful systems and automating the boring parts
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=900&lines=Python+%7C+Node.js+%7C+TypeScript;APIs%2C+automation+and+reliable+services;Linux%2C+containers+and+self-hosted+environments;Turning+operational+problems+into+practical+solutions" alt="Typing SVG" />
 
 <p>
-  <a href="#-about"><img src="https://img.shields.io/badge/About-0D1117?style=for-the-badge&logo=readme&logoColor=39FF14" alt="About" /></a>
-  <a href="#-tech-radar"><img src="https://img.shields.io/badge/Tech_Radar-0D1117?style=for-the-badge&logo=databricks&logoColor=39FF14" alt="Tech Radar" /></a>
-  <a href="#-stats-panel"><img src="https://img.shields.io/badge/Stats_Panel-0D1117?style=for-the-badge&logo=windows-terminal&logoColor=39FF14" alt="Stats Panel" /></a>
-  <a href="#-commit-signal"><img src="https://img.shields.io/badge/Commit_Signal-0D1117?style=for-the-badge&logo=git&logoColor=39FF14" alt="Commit Signal" /></a>
-  <a href="#-contact"><img src="https://img.shields.io/badge/Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Contact" /></a>
+  <a href="#-about"><img src="https://img.shields.io/badge/About-0D1117?style=for-the-badge&logo=readme&logoColor=58A6FF" alt="About" /></a>
+  <a href="#-tech-radar"><img src="https://img.shields.io/badge/Tech_Radar-0D1117?style=for-the-badge&logo=databricks&logoColor=58A6FF" alt="Tech Radar" /></a>
+  <a href="#-github-dashboard"><img src="https://img.shields.io/badge/GitHub_Dashboard-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Dashboard" /></a>
+  <a href="#-contact"><img src="https://img.shields.io/badge/Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Contact" /></a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/backend-111827?style=for-the-badge&logo=github&logoColor=white" alt="Backend" />
-  <img src="https://img.shields.io/badge/python-111827?style=for-the-badge&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/node.js-111827?style=for-the-badge&logo=node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/linux-111827?style=for-the-badge&logo=linux" alt="Linux" />
-  <img src="https://img.shields.io/badge/docker-111827?style=for-the-badge&logo=docker" alt="Docker" />
-  <img src="https://img.shields.io/badge/automation-111827?style=for-the-badge&logo=githubactions" alt="Automation" />
+  <img src="https://img.shields.io/badge/Backend_Developer-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Backend Developer" />
+  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/Automation-161B22?style=for-the-badge&logo=githubactions" alt="Automation" />
 </p>
 
 </div>
+
+---
+
+## / about
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+
+```python
+class RichardBarbosaSilva:
+    role = "Jr Backend Developer"
+    location = "Manaus, AM - Brazil"
+    stack = ["Python", "Node.js", "TypeScript", "Fastify", "Prisma"]
+    focus = ["Backend", "Automation", "Linux", "Containers", "DevOps"]
+    mindset = "Build useful things, automate repetitive work and keep systems reliable."
+```
+
+Sou um desenvolvedor back-end com forte afinidade por automacao, infraestrutura e ambientes Linux.
+
+Gosto de trabalhar na fronteira entre desenvolvimento e operacao: criar APIs, estruturar servicos, automatizar rotinas e transformar gargalos tecnicos em solucao pratica.
+
+    </td>
+    <td width="42%" valign="top">
+
+| Signal | Status |
+| --- | --- |
+| Current role | Jr Backend Developer |
+| Base | Manaus, AM - Brazil |
+| Strongest themes | APIs, automacao, infraestrutura |
+| Favorite environments | Linux, Docker, self-hosted |
+| What drives me | Sistemas limpos, uteis e escalaveis |
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -30,13 +67,13 @@
 <div align="center">
 
 ### Backend and APIs
-<img src="https://skillicons.dev/icons?i=python,nodejs,ts,js,fastapi,express" alt="Backend stack" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,django,flask,ts,js,fastapi" alt="Backend stack" />
 
 ### Infra and DevOps
-<img src="https://skillicons.dev/icons?i=linux,debian,docker,nginx,bash,githubactions,git" alt="Infra stack" />
+<img src="https://skillicons.dev/icons?i=linux,windows,powershell,ansible,aws,terraform,github,grafana,ubuntu,docker,nginx,bash,git" alt="Infra stack" />
 
 ### Data and Tools
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,prisma,vscode" alt="Data stack" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,prisma,vscode,postman,selenium,pycharm," alt="Data stack" />
 
 </div>
 
@@ -59,49 +96,6 @@
 
 ---
 
-## / stats-panel
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Richardbarbosasilva&theme=github_dark" alt="GitHub stats panel" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Richardbarbosasilva&theme=github_dark" alt="Most commit language" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Richardbarbosasilva&theme=github_dark&utcOffset=-4" alt="Productive time" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Richardbarbosasilva&theme=github_dark" alt="Repos per language" />
-</div>
-
----
-
-## / commit-signal
-
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Richardbarbosasilva&theme=github_dark" alt="Profile details" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Richardbarbosasilva&theme=github-dark&hide_border=true&area=true" alt="Activity graph" />
-</div>
-
----
-
-## / operating-mode
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-### What you'll find here
-
-- Backend services and REST APIs
-- Automation for technical and operational routines
-- Self-hosted tooling experiments
-- Infrastructure and container-based setups
-- Deploy, observability and reliability studies
-- Projects focused on productivity and scale
-
-   </td>
-   <td valign="top" width="50%">
 
 ### Core principles
 
@@ -112,9 +106,27 @@
 - Build with reliability and readability in mind
 - Keep evolving one layer at a time
 
-   </td>
+    </td>
   </tr>
 </table>
+
+---
+
+## / github-dashboard
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Richardbarbosasilva&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Richardbarbosasilva&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardbarbosasilva&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-profile-trophy.vercel.app/?username=Richardbarbosasilva&theme=algolia&no-frame=true&no-bg=true&row=2&column=3" alt="Trophies" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Richardbarbosasilva&theme=github-dark&hide_border=true&area=true" alt="Activity graph" />
+</div>
 
 ---
 
@@ -130,6 +142,21 @@
 - Operational automation and scripting
 - Monitoring, observability and reliability improvements
 - Practical solutions for real-world technical bottlenecks
+
+</details>
+
+<details>
+  <summary><strong>How I like to build</strong></summary>
+  <br />
+
+```yaml
+workflow:
+  - understand_the_problem
+  - structure_the_service
+  - automate_the_repetitive_parts
+  - monitor_and_refine
+  - keep_it_simple_and_reliable
+```
 
 </details>
 
@@ -156,10 +183,10 @@ current_focus:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/richard-barbosa-silva-862897255">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
 </a>
 <a href="https://github.com/Richardbarbosasilva">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub" />
 </a>
 
 <br />
@@ -168,3 +195,16 @@ current_focus:
 <sub>Build practical systems. Automate the boring parts. Keep evolving.</sub>
 
 </div>
+
+---
+
+## Optional extras
+
+Se quiser deixar o perfil ainda mais ilustrativo depois, eu sugiro:
+
+- banner personalizado feito no seu estilo
+- secao manual de projetos em destaque com mini cards
+- snake animation das contribuicoes
+- contador de visitas
+- bloco "currently building" com projeto atual
+- badges de ambiente, stack favorita ou certificacoes
