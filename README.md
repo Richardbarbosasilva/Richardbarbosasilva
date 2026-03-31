@@ -26,6 +26,12 @@
 
 ---
 
+## / about
+
+Sou um desenvolvedor back-end com forte afinidade por automacao, infraestrutura, Linux e servicos escalaveis.
+
+Gosto de trabalhar na intersecao entre desenvolvimento e operacao: criar APIs, estruturar servicos, automatizar rotinas, organizar ambientes e transformar problemas tecnicos em solucoes praticas.
+
 ---
 
 ## / tech-radar
@@ -39,7 +45,7 @@
 <img src="https://skillicons.dev/icons?i=linux,windows,powershell,ansible,aws,terraform,github,grafana,ubuntu,docker,nginx,bash,git" alt="Infra stack" />
 
 ### Data and Tools
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,prisma,vscode,postman,selenium,pycharm," alt="Data stack" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,prisma,vscode,postman,selenium,pycharm" alt="Data stack" />
 
 </div>
 
@@ -62,6 +68,7 @@
 
 ---
 
+## / operating-mode
 
 ### Core principles
 
@@ -72,22 +79,22 @@
 - Build with reliability and readability in mind
 - Keep evolving one layer at a time
 
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## / github-dashboard
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Richardbarbosasilva&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Richardbarbosasilva&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Richardbarbosasilva&theme=github_dark" alt="GitHub stats panel" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Richardbarbosasilva&theme=github_dark&utcOffset=-4" alt="Productive time" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardbarbosasilva&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=Richardbarbosasilva&theme=algolia&no-frame=true&no-bg=true&row=2&column=3" alt="Trophies" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Richardbarbosasilva&theme=github_dark" alt="Repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Richardbarbosasilva&theme=github_dark" alt="Most commit language" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Richardbarbosasilva&theme=github_dark" alt="Profile details" />
 </div>
 
 <div align="center">
@@ -161,16 +168,3 @@ current_focus:
 <sub>Build practical systems. Automate the boring parts. Keep evolving.</sub>
 
 </div>
-
----
-
-## Optional extras
-
-Se quiser deixar o perfil ainda mais ilustrativo depois, eu sugiro:
-
-- banner personalizado feito no seu estilo
-- secao manual de projetos em destaque com mini cards
-- snake animation das contribuicoes
-- contador de visitas
-- bloco "currently building" com projeto atual
-- badges de ambiente, stack favorita ou certificacoes
