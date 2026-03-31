@@ -37,13 +37,13 @@
 <img src="https://skillicons.dev/icons?i=linux,windows,powershell,ansible,aws,terraform,github,grafana,ubuntu,docker,nginx,bash,git" alt="Infra stack" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite" alt="Data stack" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite" alt="Databases" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=prisma,vscode,postman,selenium,pycharm,codepen,discord,gcp" alt="Data stack" />
-
+<img src="https://skillicons.dev/icons?i=prisma,vscode,postman,selenium,pycharm,codepen,discord,gcp" alt="Tools stack" />
 </div>
 
+---
 
 <table>
   <tr>
