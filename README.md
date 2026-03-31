@@ -26,14 +26,6 @@
 
 ---
 
-## / about
-
-Sou um desenvolvedor back-end com forte afinidade por automacao, infraestrutura, Linux e servicos escalaveis.
-
-Gosto de trabalhar na intersecao entre desenvolvimento e operacao: criar APIs, estruturar servicos, automatizar rotinas, organizar ambientes e transformar problemas tecnicos em solucoes praticas.
-
----
-
 ## / tech-radar
 
 <div align="center">
@@ -42,10 +34,13 @@ Gosto de trabalhar na intersecao entre desenvolvimento e operacao: criar APIs, e
 <img src="https://skillicons.dev/icons?i=python,nodejs,django,flask,ts,js,fastapi" alt="Backend stack" />
 
 ### Infra and DevOps
-<img src="https://skillicons.dev/icons?i=linux,windows,powershell,ansible,aws,terraform,github,grafana,ubuntu,docker,nginx,bash,git,pycharm" alt="Infra stack" />
+<img src="https://skillicons.dev/icons?i=linux,windows,powershell,ansible,aws,terraform,github,grafana,ubuntu,docker,nginx,bash,git" alt="Infra stack" />
 
-### Data and Tools
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,prisma,vscode,postman,selenium,pycharm,codepen,pycharm" alt="Data stack" />
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite" alt="Data stack" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=prisma,vscode,postman,selenium,pycharm,codepen,discord,gcp" alt="Data stack" />
 
 </div>
 
