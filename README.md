@@ -64,7 +64,7 @@
 <img src="https://cdn.simpleicons.org/githubactions" height="40" alt="githubactions" />
 <img src="https://cdn.simpleicons.org/swagger" height="40" alt="swagger" />
 <img src="https://cdn.simpleicons.org/beekeeperstudio" height="40" alt="beekeeper" />
-<img src="https://cdn.simpleicons.org/github" height="45" alt="github" />
+<img src="https://cdn.simpleicons.org/github/ffffff" height="45" alt="github" />
 
 </div>
 
