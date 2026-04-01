@@ -7,9 +7,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=900&lines=Python+%7C+Node.js+%7C+TypeScript;APIs%2C+automation+and+reliable+services;Linux%2C+containers+and+self-hosted+environments;Turning+operational+problems+into+practical+solutions" alt="Typing SVG" />
 
 <p>
-  <a href="#-about"><img src="https://img.shields.io/badge/About-0D1117?style=for-the-badge&logo=readme&logoColor=58A6FF" alt="About" /></a>
-  <a href="#-tech-radar"><img src="https://img.shields.io/badge/Tech_skills-0D1117?style=for-the-badge&logo=databricks&logoColor=58A6FF" alt="Tech Skills" /></a>
-  <a href="#-github-dashboard"><img src="https://img.shields.io/badge/GitHub_Dashboard-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Dashboard" /></a>
+  <a href="#-tech_skills"><img src="https://img.shields.io/badge/Tech_skills-0D1117?style=for-the-badge&logo=databricks&logoColor=58A6FF" alt="Tech Skills" /></a>
+  <a href="github_dashboard"><img src="https://img.shields.io/badge/GitHub_Dashboard-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Dashboard" /></a>
   <a href="#-contact"><img src="https://img.shields.io/badge/Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Contact" /></a>
 </p>
 
