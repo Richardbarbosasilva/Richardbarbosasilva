@@ -34,7 +34,7 @@
 <img src="https://skillicons.dev/icons?i=python,nodejs,django,flask,ts,js,fastapi" alt="Backend stack" />
 
 ### Infra and DevOps
-<img src="https://skillicons.dev/icons?i=linux,windows,powershell,ansible,aws,terraform,github,grafana,ubuntu,docker,nginx,bash,git" alt="Infra stack" />
+<img src="https://skillicons.dev/icons?i=linux,windows,powershell,ansible,aws,terraform,github,grafana,ubuntu,debian,docker,nginx,bash,git" alt="Infra stack" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite" alt="Databases" />
