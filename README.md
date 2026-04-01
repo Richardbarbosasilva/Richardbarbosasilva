@@ -8,7 +8,7 @@
 
 <p>
   <a href="#-tech_skills"><img src="https://img.shields.io/badge/Tech_skills-0D1117?style=for-the-badge&logo=databricks&logoColor=58A6FF" alt="Tech Skills" /></a>
-  <a href="github_metrics"><img src="https://img.shields.io/badge/GitHub_Dashboard-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Dashboard" /></a>
+  <a href="-github_metrics"><img src="https://img.shields.io/badge/GitHub_Dashboard-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Dashboard" /></a>
   <a href="#-contact"><img src="https://img.shields.io/badge/Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Contact" /></a>
 </p>
 
