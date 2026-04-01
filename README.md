@@ -26,45 +26,68 @@
 
 ---
 
-## / tech-radar
+## / tech_skills
 
 <div align="center">
 
 ### Backend and APIs
 <img src="https://skillicons.dev/icons?i=python,nodejs,django,flask,ts,js,fastapi" alt="Backend stack" />
+<img src="https://cdn.simpleicons.org/fastify/grey" height="40" alt="fastify" />
 
 ### Infra and DevOps
-<img src="https://skillicons.dev/icons?i=linux,windows,powershell,ansible,aws,terraform,github,grafana,ubuntu,debian,docker,nginx,bash,git" alt="Infra stack" />
+<img src="https://skillicons.dev/icons?i=powershell,ansible,aws,terraform,github,grafana,docker,nginx,bash,git" alt="Infra stack" />
+<img src="https://cdn.simpleicons.org/traefikproxy" height="40" alt="Traefik" />
+<img src="https://cdn.simpleicons.org/pfsense/ffffff" height="40" alt="pfsense" />
+<img src="https://cdn.simpleicons.org/proxmox" height="40" alt="proxmox" />
+<img src="https://cdn.simpleicons.org/vmware" height="40" alt="vmware" />
+<img src="https://cdn.simpleicons.org/apache" height="40" alt="apache" />
+<img src="https://cdn.simpleicons.org/fortinet" height="40" alt="fortinet" />
+<img src="https://images.icon-icons.com/2699/PNG/512/zabbix_logo_icon_167937.png" height="45" alt="zabbix" />
+<img src="https://cdn.simpleicons.org/minio" height="45" alt="minio" />
+
+
+### Systems
+<img src="https://skillicons.dev/icons?i=linux,windows,debian,ubuntu,mint" alt="Infra stack" />
+<img src="https://cdn.simpleicons.org/alpine.js" height="40" alt="alpine" />
+<img src="https://cdn.simpleicons.org/fedora" height="40" alt="fedora" />
+<img src="https://cdn.simpleicons.org/opensuse" height="40" alt="opensuse" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite" alt="Databases" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=prisma,vscode,postman,selenium,pycharm,codepen,discord,gcp" alt="Tools stack" />
+<img src="https://skillicons.dev/icons?i=prisma,vscode,postman,selenium,pycharm,discord" alt="Tools stack" />
+<img src="https://cdn.simpleicons.org/adminer" height="55" alt="adminer" />
+<img src="https://cdn.simpleicons.org/sqlalchemy" height="45" alt="sqlalchemy" />
+<img src="https://cdn.simpleicons.org/phpmyadmin" height="45" alt="phpmyadmin" />
+<img src="https://cdn.simpleicons.org/githubactions" height="40" alt="githubactions" />
+<img src="https://cdn.simpleicons.org/swagger" height="40" alt="swagger" />
+
 </div>
 
 ---
 
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="30%" height="200px">
       <h3>Backend</h3>
-      APIs REST, regras de negocio, integracoes, validacao, organizacao de servicos e arquitetura orientada a clareza.
+      <p></p>
+      REST APIs, business rules, integrations, validation, service organization, and clarity-oriented architecture.
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="30%">
       <h3>Automation</h3>
-      Scripts, rotinas operacionais, jobs, pipelines e eliminacao de trabalho manual recorrente.
+      <p></p>
+      Scripts, operational routines, jobs, pipelines, and elimination of recurring manual work.
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="30%">
       <h3>Infrastructure</h3>
-      Containers, reverse proxy, Linux, self-hosted apps, deploy e confiabilidade de ambiente.
+      <p></p>
+      Containers, reverse proxy, Linux, self-hosted apps, deployment, and environment reliability.
     </td>
   </tr>
 </table>
 
----
-
-## / operating-mode
+## / operating_mode
 
 ### Core principles
 
@@ -77,7 +100,7 @@
 
 ---
 
-## / github-dashboard
+## / github_metrics
 
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Richardbarbosasilva&theme=github_dark" alt="GitHub stats panel" />
@@ -99,34 +122,6 @@
 
 ---
 
-## / deep-dive
-
-<details>
-  <summary><strong>More about my technical interests</strong></summary>
-  <br />
-
-- Service architecture and clean backend organization
-- Linux-based workflows and server administration
-- Containers, self-hosted services and deployment routines
-- Operational automation and scripting
-- Monitoring, observability and reliability improvements
-- Practical solutions for real-world technical bottlenecks
-
-</details>
-
-<details>
-  <summary><strong>How I like to build</strong></summary>
-  <br />
-
-```yaml
-workflow:
-  - understand_the_problem
-  - structure_the_service
-  - automate_the_repetitive_parts
-  - monitor_and_refine
-  - keep_it_simple_and_reliable
-```
-
 </details>
 
 <details>
@@ -138,8 +133,9 @@ current_focus:
   - backend_development
   - python_ecosystem
   - api_design
+  - devops
   - linux_and_containers
-  - automation_and_devops_workflows
+  - automation_workflows
   - practical_scalable_systems
 ```
 
@@ -152,7 +148,8 @@ current_focus:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/richard-barbosa-silva-862897255">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"
+   alt="LinkedIn" />
 </a>
 <a href="https://github.com/Richardbarbosasilva">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub" />
