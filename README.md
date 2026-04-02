@@ -47,7 +47,7 @@
 <img src="https://cdn.simpleicons.org/duplicati" height="40" alt="duplicati" />
 
 
-### Systems
+### O.S
 <img src="https://skillicons.dev/icons?i=linux,windows,debian,ubuntu,mint" alt="Infra stack" />
 <img src="https://cdn.simpleicons.org/alpine.js" height="40" alt="alpine" />
 <img src="https://cdn.simpleicons.org/fedora" height="40" alt="fedora" />
