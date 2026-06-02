@@ -105,18 +105,9 @@
 
 ## / github_metrics
 
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Richardbarbosasilva&theme=github_dark" alt="GitHub stats panel" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Richardbarbosasilva&theme=github_dark&utcOffset=-4" alt="Productive time" />
-</div>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Richardbarbosasilva&theme=github_dark" alt="Repos per language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Richardbarbosasilva&theme=github_dark" alt="Most commit language" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Richardbarbosasilva&theme=github_dark" alt="Profile details" />
+  <img src="https://streak-stats.demolab.com/?user=Richardbarbosasilva&theme=github-dark&hide_border=true" alt="GitHub streak" />
 </div>
 
 <div align="center">
@@ -124,8 +115,6 @@
 </div>
 
 ---
-
-</details>
 
 <details>
   <summary><strong>Current focus</strong></summary>
