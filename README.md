@@ -110,9 +110,7 @@
   <img src="https://streak-stats.demolab.com/?user=Richardbarbosasilva&theme=github-dark&hide_border=true" alt="GitHub streak" />
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Richardbarbosasilva&theme=github-dark&hide_border=true&area=true" alt="Activity graph" />
-</div>
+
 
 ---
 
