@@ -81,19 +81,9 @@
 <div align="center">
 
 
-<br/>
-
-*Building practical systems and automating repetitive work.*
-
-</div>
 
 ---
 
-<div align="center">
-
-## 🧰 Tech Stack
-
-<br/>
 
 ### ⚡ Backend & APIs
 
