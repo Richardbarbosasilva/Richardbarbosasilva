@@ -80,16 +80,6 @@
 
 <div align="center">
 
-## 👋 About me
-
-**Backend Developer** from Manaus, Brazil 🇧🇷
-
-⚡ Backend, APIs & integrations  
-🐧 Linux & self-hosted infrastructure  
-🐳 Containers & deployments  
-🤖 Automation & DevOps  
-☁️ Cloud & observability  
-🚀 Creator of **OpenScale**
 
 <br/>
 
