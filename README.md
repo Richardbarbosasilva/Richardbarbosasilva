@@ -10,6 +10,46 @@
 
 <br/>
 
+## 📊 GitHub Activity
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Richardbarbosasilva&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" />
+
+<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardbarbosasilva&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=Richardbarbosasilva&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Let's connect
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Build.+Automate.+Improve.;Always+building+something.;Keep+learning.+Keep+shipping." />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/richard-barbosa-silva-862897255">
+<img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Richardbarbosasilva">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**⚡ Backend &nbsp; • &nbsp; 🤖 Automation &nbsp; • &nbsp; 🐧 Linux &nbsp; • &nbsp; ☁️ DevOps**
+
+<br/>
+
 <a href="https://www.linkedin.com/in/richard-barbosa-silva-862897255">
 <img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
