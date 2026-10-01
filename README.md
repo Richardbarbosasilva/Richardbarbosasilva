@@ -2,65 +2,65 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,45:13233B,100:1F6FEB&section=header&text=Richard%20Barbosa%20Silva&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20DevOps%20%7C%20Automation&descAlignY=58&descSize=16" />
 
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+backend+systems+%F0%9F%9A%80;Automating+the+boring+parts+%E2%9A%A1;Linux+%2B+Containers+%2B+Cloud+%F0%9F%90%A7;Turning+problems+into+working+systems+%F0%9F%92%A1" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/richard-barbosa-silva-862897255">
-  <img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/Richardbarbosasilva?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<table>
+<table width="100%">
 <tr>
 
-<td width="20%" align="center" valign="top">
+<td width="20%" align="center">
 
 ### ⚡
-### Backend
+**Backend**
 
 `APIs` `Services`
 
 </td>
 
-<td width="20%" align="center" valign="top">
+<td width="20%" align="center">
 
 ### 🤖
-### Automation
+**Automation**
 
 `Scripts` `CI/CD`
 
 </td>
 
-<td width="20%" align="center" valign="top">
+<td width="20%" align="center">
 
 ### 🐧
-### Infrastructure
+**Infrastructure**
 
 `Linux` `Docker`
 
 </td>
 
-<td width="20%" align="center" valign="top">
+<td width="20%" align="center">
 
 ### ☁️
-### DevOps
+**DevOps**
 
 `Cloud` `IaC`
 
 </td>
 
-<td width="20%" align="center" valign="top">
+<td width="20%" align="center">
 
 ### 🚀
-### OpenScale
+**OpenScale**
 
 `Creator` `Builder`
 
@@ -69,28 +69,38 @@
 </tr>
 </table>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 👋 About me
 
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardbarbosasilva&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
-
 **Backend Developer** from Manaus, Brazil 🇧🇷
 
-⚡ Backend, APIs & integrations  
-🐧 Linux & self-hosted infrastructure  
-🐳 Containers & deployments  
-🤖 Automation & DevOps  
-☁️ Cloud & observability  
-🚀 Creator of **OpenScale**
+Backend development • Infrastructure • Automation • DevOps
 
-<br clear="both"/>
+<br/>
+
+⚡ **Backend** &nbsp;•&nbsp;
+🐧 **Linux** &nbsp;•&nbsp;
+🐳 **Containers** &nbsp;•&nbsp;
+🤖 **Automation** &nbsp;•&nbsp;
+☁️ **Cloud** &nbsp;•&nbsp;
+🚀 **OpenScale**
+
+<br/>
+
+*Building practical systems and automating repetitive work.*
+
+</div>
 
 ---
 
-## 🧰 Tech Stack
-
 <div align="center">
+
+## 🧰 Tech Stack
 
 ### ⚡ Backend & APIs
 
@@ -139,7 +149,7 @@ Python • Node.js • TypeScript • JavaScript • FastAPI • Fastify • Dja
 <br/><br/>
 
 <sub>
-Docker • Nginx • Traefik • Git • GitHub Actions • Ansible • Terraform • AWS • Proxmox • VMware • pfSense • Fortinet • Grafana • Zabbix • MinIO • Duplicati
+Docker • Nginx • Traefik • Ansible • Terraform • AWS • Proxmox • VMware • pfSense • Fortinet • Grafana • Zabbix • MinIO • Duplicati
 </sub>
 
 <br/><br/><br/>
@@ -159,7 +169,7 @@ Docker • Nginx • Traefik • Git • GitHub Actions • Ansible • Terrafor
 <br/><br/>
 
 <sub>
-Linux • Debian • Ubuntu • Alpine Linux • Fedora • openSUSE • Linux Mint • Windows
+Linux • Debian • Ubuntu • Alpine • Fedora • openSUSE • Mint • Windows
 </sub>
 
 <br/><br/><br/>
@@ -204,31 +214,29 @@ VS Code • PyCharm • Postman • Selenium • Adminer • SQLAlchemy • phpM
 
 ---
 
+<div align="center">
+
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
 ### 🔐 [Custom MinIO UI](https://github.com/Richardbarbosasilva/custom_minio_ui)
 
-Custom authentication & MFA experience.
-
-<br/>
+Authentication & MFA customization
 
 `MinIO` `MFA` `JavaScript`
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
 ### ⚙️ [Custom Semaphore UI](https://github.com/Richardbarbosasilva/custom_semaphore_ui)
 
-Infrastructure automation interface.
-
-<br/>
+Infrastructure automation interface
 
 `Ansible` `Automation` `Go`
 
@@ -238,25 +246,21 @@ Infrastructure automation interface.
 
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
 ### 💾 [Custom Duplicati UI](https://github.com/Richardbarbosasilva/custom_duplicati_ui)
 
-Customized backup management.
-
-<br/>
+Customized backup management
 
 `Backup` `C#` `Self-hosted`
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
 ### 📁 [Custom Pydio Cells UI](https://github.com/Richardbarbosasilva/custom_pydiocells_ui)
 
-Self-hosted file management.
-
-<br/>
+Self-hosted file management
 
 `Storage` `Go` `Self-hosted`
 
@@ -266,55 +270,56 @@ Self-hosted file management.
 
 </table>
 
-<div align="center">
+<br/>
 
 <a href="https://github.com/Richardbarbosasilva?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_all_projects-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Explore_all_projects-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Richardbarbosasilva&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardbarbosasilva&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
+## 📊 GitHub Activity
 
 <br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=Richardbarbosasilva&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Richardbarbosasilva&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" />
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardbarbosasilva&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img width="60%" src="https://streak-stats.demolab.com?user=Richardbarbosasilva&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
 
 </div>
 
 ---
 
-## 🌐 Let's connect
-
 <div align="center">
+
+## 🌐 Let's connect
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Build.+Automate.+Improve.;Always+building+something.;Keep+learning.+Keep+shipping." />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/richard-barbosa-silva-862897255">
-  <img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 &nbsp;
-
 <a href="https://github.com/Richardbarbosasilva">
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<sub>
-⚡ Backend • 🤖 Automation • 🐧 Linux • ☁️ DevOps
-</sub>
+**⚡ Backend &nbsp; • &nbsp; 🤖 Automation &nbsp; • &nbsp; 🐧 Linux &nbsp; • &nbsp; ☁️ DevOps**
+
+<br/>
+
+<sub>Build practical systems. Automate the boring parts. Keep evolving.</sub>
 
 <br/><br/>
 
