@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,45:13233B,100:1F6FEB&section=header&text=Richard%20Barbosa%20Silva&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20DevOps%20%7C%20Automation&descAlignY=58&descSize=16" />
+<img width="100%" alt="Richard Barbosa Silva — Backend Developer, DevOps, Automation" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,45:13233B,100:1F6FEB&section=header&text=Richard%20Barbosa%20Silva&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20DevOps%20%7C%20Automation&descAlignY=58&descSize=16" />
 
 <br/>
 
