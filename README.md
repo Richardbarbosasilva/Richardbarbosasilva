@@ -14,13 +14,13 @@
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Richardbarbosasilva&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" />
+<img width="49%" alt="GitHub activity statistics for Richard Barbosa Silva" src="https://github-readme-stats.vercel.app/api?username=Richardbarbosasilva&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" />
 
-<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardbarbosasilva&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
+<img width="39%" alt="Most used programming languages in Richard Barbosa Silva's public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardbarbosasilva&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=Richardbarbosasilva&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+<img width="65%" alt="GitHub contribution streak statistics for Richard Barbosa Silva" src="https://streak-stats.demolab.com?user=Richardbarbosasilva&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
 
 </div>
 
