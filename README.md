@@ -164,13 +164,6 @@
 <img src="https://img.shields.io/badge/Beekeeper-161B22?style=for-the-badge&logo=beekeeperstudio&logoColor=FAD83B" />
 <img src="https://img.shields.io/badge/GitHub_Actions-161B22?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
 
-<br/><br/>
-
-</div>
-
----
-
-
 
 ## 📊 GitHub Activity
 
