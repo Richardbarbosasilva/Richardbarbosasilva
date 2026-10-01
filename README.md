@@ -36,14 +36,6 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/richard-barbosa-silva-862897255">
-<img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/Richardbarbosasilva">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 <br/><br/>
 
 **⚡ Backend &nbsp; • &nbsp; 🤖 Automation &nbsp; • &nbsp; 🐧 Linux &nbsp; • &nbsp; ☁️ DevOps**
