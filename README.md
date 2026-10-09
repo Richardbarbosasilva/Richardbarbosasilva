@@ -143,13 +143,7 @@
 
 ### 🚀 OpenScale Creator
 
-Backend developer focused on automation, infrastructure and systems that solve real problems.
-
-<br/>
-
-<sub>Build practical systems. Automate the boring parts. Keep evolving.</sub>
-
-<br/><br/>
+<img width="100%" alt="" src="https://i.pinimg.com/1200x/d2/3c/d9/d23cd972d993657f31983d0eb63b9ec5.jpg" />
 
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,45:13233B,100:1F6FEB&section=footer" />
 
