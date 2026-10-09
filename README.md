@@ -1,22 +1,18 @@
-
-
 <div align="center">
 
 <img width="100%" alt="Richard Barbosa Silva — Backend Developer, DevOps, Automation" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,45:13233B,100:1F6FEB&section=header&text=Richard%20Barbosa%20Silva&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20DevOps%20%7C%20Automation&descAlignY=58&descSize=16" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+backend+systems+%F0%9F%9A%80;Automating+the+boring+parts+%E2%9A%A1;Linux+%2B+Containers+%2B+Cloud+%F0%9F%90%A7;Turning+problems+into+working+systems+%F0%9F%92%A1" />
+**Building backend systems • Automating the boring parts • Linux, containers & cloud**
 
-<br/>
+<br/><br/>
 
 ## 📊 GitHub Activity
 
 <br/>
 
-<img width="49%" alt="GitHub activity statistics for Richard Barbosa Silva" src="https://github-readme-stats.vercel.app/api?username=Richardbarbosasilva&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" />
-
-<img width="39%" alt="Most used programming languages in Richard Barbosa Silva's public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardbarbosasilva&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
+<img width="65%" alt="GitHub activity statistics for Richard Barbosa Silva" src="https://github-readme-stats.vercel.app/api?username=Richardbarbosasilva&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" />
 
 <br/><br/>
 
@@ -30,81 +26,61 @@
 
 ## 🌐 Let's connect
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Build.+Automate.+Improve.;Always+building+something.;Keep+learning.+Keep+shipping." />
+**Build. Automate. Improve.**
 
 <br/>
-
-<br/><br/>
 
 **⚡ Backend &nbsp; • &nbsp; 🤖 Automation &nbsp; • &nbsp; 🐧 Linux &nbsp; • &nbsp; ☁️ DevOps**
 
 <br/>
 
 <a href="https://www.linkedin.com/in/richard-barbosa-silva-862897255">
-<img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/Richardbarbosasilva?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Repositories" src="https://img.shields.io/badge/Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
 <table width="100%">
 <tr>
-
 <td width="20%" align="center">
 
-### ⚡
-
-**Backend**
+### ⚡ Backend
 
 `APIs` `Services`
 
 </td>
-
 <td width="20%" align="center">
 
-### 🤖
-
-**Automation**
+### 🤖 Automation
 
 `Scripts` `CI/CD`
 
 </td>
-
 <td width="20%" align="center">
 
-### 🐧
-
-**Infrastructure**
+### 🐧 Infrastructure
 
 `Linux` `Docker`
 
 </td>
-
 <td width="20%" align="center">
 
-### ☁️
-
-**DevOps**
+### ☁️ DevOps
 
 `Cloud` `IaC`
 
 </td>
-
 <td width="20%" align="center">
 
-### 🚀
-
-**OpenScale**
+### 🚀 OpenScale
 
 `Creator` `Builder`
 
 </td>
-
 </tr>
 </table>
 
@@ -114,16 +90,11 @@
 
 <div align="center">
 
-
-
----
-
-
 ### ⚡ Backend & APIs
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,ts,js,django,flask,fastapi&theme=dark" />
+<img alt="Backend technologies" src="https://skillicons.dev/icons?i=python,nodejs,ts,js,django,flask,fastapi&theme=dark" />
 
 <br/><br/>
 
@@ -138,7 +109,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,bash,powershell,git,githubactions,ansible,aws,terraform,grafana&theme=dark" />
+<img alt="Infrastructure and DevOps technologies" src="https://skillicons.dev/icons?i=linux,docker,nginx,bash,powershell,git,githubactions,ansible,aws,terraform,grafana&theme=dark" />
 
 <br/><br/>
 
@@ -161,7 +132,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=linux,windows,debian,ubuntu,mint&theme=dark" />
+<img alt="Operating systems" src="https://skillicons.dev/icons?i=linux,windows,debian,ubuntu,mint&theme=dark" />
 
 <br/><br/>
 
@@ -175,7 +146,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark" />
+<img alt="Databases" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark" />
 
 <br/><br/>
 
@@ -188,7 +159,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,selenium,github&theme=dark" />
+<img alt="Development tools" src="https://skillicons.dev/icons?i=vscode,pycharm,postman,selenium,github&theme=dark" />
 
 <br/><br/>
 
@@ -198,13 +169,12 @@
 <img src="https://img.shields.io/badge/Beekeeper-161B22?style=for-the-badge&logo=beekeeperstudio&logoColor=FAD83B" />
 <img src="https://img.shields.io/badge/GitHub_Actions-161B22?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
 
-
-
+<br/><br/>
 
 <sub>Build practical systems. Automate the boring parts. Keep evolving.</sub>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,45:13233B,100:1F6FEB&section=footer" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,45:13233B,100:1F6FEB&section=footer" />
 
 </div>
