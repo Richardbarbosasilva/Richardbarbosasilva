@@ -18,7 +18,7 @@
   <img alt="GitHub repositories" src="https://img.shields.io/badge/Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
---
+
 <div align="center">
 
 <img alt="3.538 contribuições nos últimos 12 meses, conforme captura de 09/10/2026" src="https://img.shields.io/badge/3.538-CONTRIBUIÇÕES-1F6FEB?style=for-the-badge&labelColor=0D1117" />
