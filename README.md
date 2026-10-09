@@ -19,6 +19,15 @@
 </a>
 
 </div>
+
+---
+
+<div align="center">
+
+## ⚡ At a Glance
+
+<br/>
+
 <img alt="3.538 contribuições nos últimos 12 meses, conforme captura de 09/10/2026" src="https://img.shields.io/badge/3.538-CONTRIBUIÇÕES-1F6FEB?style=for-the-badge&labelColor=0D1117" />
 &nbsp;
 <img alt="5 áreas de atuação" src="https://img.shields.io/badge/5-ÁREAS_DE_ATUAÇÃO-58A6FF?style=for-the-badge&labelColor=0D1117" />
@@ -26,6 +35,8 @@
 <img alt="4 conquistas no GitHub" src="https://img.shields.io/badge/4-CONQUISTAS-238636?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
+
+<sub>Contribuições: valor registrado em 09/10/2026. O gráfico atualizado aparece no próprio perfil do GitHub.</sub>
 
 <br/><br/>
 
