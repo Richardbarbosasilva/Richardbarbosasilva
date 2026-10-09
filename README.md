@@ -26,11 +26,6 @@
 <img alt="5 áreas de atuação" src="https://img.shields.io/badge/5-ÁREAS_DE_ATUAÇÃO-58A6FF?style=for-the-badge&labelColor=0D1117" />
 &nbsp;
 <img alt="4 conquistas no GitHub" src="https://img.shields.io/badge/4-CONQUISTAS-238636?style=for-the-badge&labelColor=0D1117" />
-
-<br/><br/>
-
-<sub>Contribuições: valor registrado em 09/10/2026. O gráfico atualizado aparece no próprio perfil do GitHub.</sub>
-
 <br/><br/>
 
 <img width="72%" alt="Sequência de contribuições no GitHub, atualizada automaticamente" src="https://streak-stats.demolab.com?user=Richardbarbosasilva&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
